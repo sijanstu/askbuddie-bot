@@ -1,5 +1,7 @@
+
+
 <p align="center">
-    ![](asklogo-noback.png)
+    <img src="asklogo-noback.png" width="300">
 </p>
 <h1 align="center" style="border: 0;"> Ask Buddie Bot </h1>
 
