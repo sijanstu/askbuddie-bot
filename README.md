@@ -1,5 +1,5 @@
 <p align="center">
-    https://github.com/sijanstu/askbuddie-bot/blob/e99b0b654ad91503b2a637510ec2780fd472e1a0/asklogo-noback.png
+    ![](asklogo-noback.png)
 </p>
 <h1 align="center" style="border: 0;"> Ask Buddie Bot </h1>
 
