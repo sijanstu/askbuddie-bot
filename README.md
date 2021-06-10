@@ -1,7 +1,5 @@
 <p align="center">
-    <a href="https://www.askbuddie.com">
-        <img src="https://raw.githubusercontent.com/askbuddie/readme/master/asklogo-noback.png" align="center" alt="askbuddie-icon"/>
-    </a>
+    https://github.com/sijanstu/askbuddie-bot/blob/e99b0b654ad91503b2a637510ec2780fd472e1a0/asklogo-noback.png
 </p>
 <h1 align="center" style="border: 0;"> Ask Buddie Bot </h1>
 
