@@ -1,7 +1,5 @@
-
-
 <p align="center">
-    <img src="askbuddie-bot.png" width="300">
+    <img  src="askbuddie-bot.png" alt="askbuddie-icon" width="300">
 </p>
 <h1 align="center" style="border: 0;"> Ask Buddie Bot </h1>
 
